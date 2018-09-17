@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "commute-executor",
+    "name": "commute",
+    "region": "us-west-2"
+  },
+  "api": {
+    "id": "sva1podjo9",
+    "module": "api"
+  }
+}

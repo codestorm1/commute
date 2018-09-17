@@ -1,0 +1,15 @@
+{
+  "name": "commute",
+  "version": "1.0.0",
+  "description": "Commute times",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Bryan Green",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-api-builder": "^4.1.1",
+    "claudia-bot-builder": "^4.3.1"
+  }
+}
